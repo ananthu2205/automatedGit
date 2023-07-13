@@ -1,0 +1,2 @@
+# automatedGit
+automated for testing
